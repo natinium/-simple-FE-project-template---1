@@ -10,7 +10,7 @@ This template is not production ready and doesn't contain any webpack, eslint or
 
 ## Quick start
 
-Just create a new project folder and git clone the template into it.
+Just create a new project folder and git clone wqrtvwertw ertw twet w the template into it.
 
 ```
 mkdir project-name
