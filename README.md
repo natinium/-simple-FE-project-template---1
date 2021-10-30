@@ -15,7 +15,7 @@ Just create a new project folder and git clone wqrtvwertw ertw twet w the templa
 ```
 mkdir project-name
 cd project-name
-git clone https://github.com/kubernetes/simple1 sbrtyurtyury weg fg kh uu iuyiuyt iuyt ut iuy iuygyu fghj  gjfghj sdfgsdfgsuy uh u45674h567
+git clone https://github.com/kubernetes/simple1 sbb fghg hgfhrtyurtyury weg fg kh uu iuyiuyt iuyt ut iuy iuygyu fghj  gjfghj sdfgsdfgsuy uh u45674h567
 
 ```
 
