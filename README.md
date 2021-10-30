@@ -15,7 +15,7 @@ Just create a new project folder and git clone the template into it.
 ```
 mkdir project-name
 cd project-name
-git clone https://github.com/kubernetes/simple1 s
+git clone https://github.com/kubernetes/simple1 sbrtyurtyuryuy uh u45674h567
 
 ```
 
