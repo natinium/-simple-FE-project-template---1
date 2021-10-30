@@ -21,7 +21,7 @@ git clone https://github.com/kubernetes/simple1 sfasdfasdf something
 
 ## To start developing
 
-To start developing start the live server from vscode.
+To start developing start the live server from vscode. something
 
 ```
 mkdir project-name
